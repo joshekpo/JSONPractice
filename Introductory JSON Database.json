@@ -1,0 +1,107 @@
+[
+  [
+    "10",
+    "27",
+    "1086",
+    "numbers",
+    "Pearland, Texas, USA",
+    "Melbourne, Florida, USA",
+    "Hamburgers",
+    "String",
+    "true",
+    "true",
+    "false",
+    "booleans",
+    [
+      "Hot dogs",
+      "Sirloin Steak",
+      "Bacon"
+    ],
+    [
+      "Lebron James",
+      "Dwyane Wade",
+      "Jimmy Butler",
+      "Joel Embiid"
+    ],
+    [
+      1981,
+      1983,
+      2008,
+      2014
+    ],
+    "Arrays",
+    [
+      {
+        "name": "Chris Washington",
+        "dateOfBirth": "3/28/1992",
+        "placeOfBirth": "Atlanta, GA, USA"
+      },
+      {
+        "team": "Los Angeles Lakers",
+        "location": "Los Angeles, CA, USA",
+        "division": "Pacific",
+        "conference": "Western"
+      },
+      {
+        "company": "Disney",
+        "founder": "Walt Disney",
+        "foundingDate": "10/16/1923",
+        "headquarters": "Burbank, CA"
+      },
+      "Objects"
+    ],
+    [
+      "name",
+      null
+    ],
+    [
+      "placeOfOrigin",
+      null
+    ],
+    [
+      "countryOfResidence",
+      null
+    ]
+  ],
+  {
+    "StandardResidencyInformation": {"Street" : "2784 Lexington Avenue", "Street2" : null, "City" : "Miami", "State" : "FL", "ZipCode" : 33101
+    }, 
+    "GeographicResidencyInformation" : {"Latitude" : 25.7617, "Longitude" : 80.1918}, 
+    "BillingAndShippingAddressVerification" : {"isBillingAddress" : "No", "isShippingAddress" : "Yes"},  
+   
+    "CustomerEmailAddressInformation" : {"EmailAddress" : "mavericks2011@gmail.com", "Type" : "Home", "Active"  : "No"}, 
+
+    "CustomerContactInformation" : {"PhoneNumber" : 3056927860, "Type" : "Work", "Active" : "Yes"}, 
+    "PhoneNumbers" : [
+      {"type1" : "home", 
+      "number1" : 4071278920, "type2" : "work", "number2" : 4074589015}
+    ], 
+    "EmailAddresses" : [
+      {"Type" : "School", "emailAddress1" : "jhopkins@ocps.net", "Type2" : "Home", "emailAddress2" : "tiktoklover2023@gmail.com", "type3" : "Work", "emailAddress3" : "jameshopkins@apple.com"
+        
+      }
+    ], 
+    "CustomerDatabase" : {
+      "Salutation" : "Mr.", "FirstName" : "Chris", "LastName" : "Reynolds", "Gender" : "Male", "Address" : {
+        "Street" : "5678 Claxton Trails", "City" : "Highland Village", "State" : "TX", "ZipCode" : 75077
+      }, 
+      "EmailAddresses" : [{ "Address1" : "chrisisdaboss@gmailcom", "Type" : "Home"}, {"Address2" : "chrisreynolds@tmobile.com", "Type" : "Work"}], 
+
+      "PhoneNumbers" : [{"PhoneNumber1" : 4697523219, "Type" : "Home"}, {"PhoneNumber2" : 4694511238, "Type" : "Work"}, {"PhoneNumber3" : 4696253890, "Type" : "School"}]
+    }
+    
+    
+    
+      
+        
+      
+    
+
+    
+     
+    
+  
+  
+    
+  }
+]
